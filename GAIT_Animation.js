@@ -3,8 +3,8 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"GAIT_Animation_atlas_1", frames: [[0,0,1920,1080]]},
-		{name:"GAIT_Animation_atlas_2", frames: [[0,0,1920,1080]]},
+		{name:"GAIT_Animation_atlas_1", frames: [[1334,338,77,48],[1157,250,86,53],[1245,250,86,53],[1157,436,77,48],[1333,250,86,53],[1157,305,86,53],[1381,305,120,28],[1438,0,139,41],[1245,305,134,31],[1157,147,154,46],[1157,403,134,31],[1313,147,154,46],[1533,139,56,48],[1421,250,62,53],[1442,195,62,53],[1506,194,63,48],[1262,338,70,53],[1293,393,70,53],[1157,195,93,53],[1252,195,93,53],[1347,195,93,53],[1554,43,56,48],[1157,360,103,41],[1485,250,62,53],[1438,43,114,46],[1469,139,62,53],[1438,91,114,46],[1157,0,279,145],[0,0,1155,844],[0,846,1376,330]]},
+		{name:"GAIT_Animation_atlas_2", frames: [[0,1082,1376,835],[0,0,1920,1080]]},
 		{name:"GAIT_Animation_atlas_3", frames: [[0,0,1920,1080]]},
 		{name:"GAIT_Animation_atlas_4", frames: [[0,0,1920,1080]]},
 		{name:"GAIT_Animation_atlas_5", frames: [[0,0,1920,1080]]},
@@ -93,8 +93,8 @@ lib.ssMetadata = [
 		{name:"GAIT_Animation_atlas_88", frames: [[0,0,1920,1080]]},
 		{name:"GAIT_Animation_atlas_89", frames: [[0,0,1920,1080]]},
 		{name:"GAIT_Animation_atlas_90", frames: [[0,0,1920,1080]]},
-		{name:"GAIT_Animation_atlas_91", frames: [[0,1082,1376,835],[0,0,1920,1080]]},
-		{name:"GAIT_Animation_atlas_92", frames: [[1334,338,77,48],[1157,250,86,53],[1245,250,86,53],[1157,436,77,48],[1333,250,86,53],[1157,305,86,53],[1381,305,120,28],[1438,0,139,41],[1245,305,134,31],[1157,147,154,46],[1157,403,134,31],[1313,147,154,46],[1533,139,56,48],[1421,250,62,53],[1442,195,62,53],[1506,194,63,48],[1262,338,70,53],[1293,393,70,53],[1157,195,93,53],[1252,195,93,53],[1347,195,93,53],[1554,43,56,48],[1157,360,103,41],[1485,250,62,53],[1438,43,114,46],[1469,139,62,53],[1438,91,114,46],[1157,0,279,145],[0,0,1155,844],[0,846,1376,330]]}
+		{name:"GAIT_Animation_atlas_91", frames: [[0,0,1920,1080]]},
+		{name:"GAIT_Animation_atlas_92", frames: [[0,0,1920,1080]]}
 ];
 
 
@@ -119,854 +119,854 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_44 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_42 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_40 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_38 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_36 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_34 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_32 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(6);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_31 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(7);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_30 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(8);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_29 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_28 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_27 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_26 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(12);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_24 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(13);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_22 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(14);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_20 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(15);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_18 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(16);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_16 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(17);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_14 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(18);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_12 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(19);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_10 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(20);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_8 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(21);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_43 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(22);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_6 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(23);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_41 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(24);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_4 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(25);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_39 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(26);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_2 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(27);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_1 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(28);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Boxpngcopy = function() {
-	this.initialize(ss["GAIT_Animation_atlas_92"]);
-	this.gotoAndStop(29);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Box2 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_91"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0000 = function() {
 	this.initialize(ss["GAIT_Animation_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.frame0001 = function() {
+(lib.CachedBmp_42 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_40 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_38 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_36 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_34 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_32 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(6);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_31 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(7);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_30 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(8);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_29 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(9);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_28 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(10);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_27 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(11);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_26 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(12);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_24 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_22 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(14);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_20 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(15);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_18 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(16);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_16 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(17);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_14 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(18);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_12 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(19);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_10 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(20);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_8 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(21);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_43 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(22);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_6 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(23);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_41 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(24);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_4 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(25);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_39 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(26);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_2 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(27);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_1 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(28);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Boxpngcopy = function() {
+	this.initialize(ss["GAIT_Animation_atlas_1"]);
+	this.gotoAndStop(29);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Box2 = function() {
 	this.initialize(ss["GAIT_Animation_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.frame0000 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_92"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0001 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_91"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.frame0002 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_3"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0003 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_4"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0004 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_5"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0005 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_6"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0006 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_7"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0007 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_8"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0008 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_9"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0009 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_10"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0010 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_11"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0011 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_12"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0012 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_13"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0013 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_14"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0014 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_15"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0015 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_16"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0016 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_17"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0017 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_18"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0018 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_19"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0019 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_20"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0020 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_21"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0021 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_22"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0022 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_23"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0023 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_24"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0024 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_25"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0025 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_26"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0026 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_27"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0027 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_28"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0028 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_29"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0029 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_30"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0030 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_31"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0031 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_32"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0032 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_33"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0033 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_34"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0034 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_35"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0035 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_36"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0036 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_37"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0037 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_38"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0038 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_39"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0039 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_40"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0040 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_41"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0041 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_42"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0042 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_43"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0043 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_44"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0044 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_45"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0045 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_46"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0046 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_47"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0047 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_48"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0048 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_49"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0049 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_50"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0050 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_51"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0051 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_52"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0052 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_53"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0053 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_54"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0054 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_55"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0055 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_56"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0056 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_57"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0057 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_58"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0058 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_59"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0059 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_60"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0060 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_61"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0061 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_62"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0062 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_63"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0063 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_64"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0064 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_65"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0065 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_66"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0066 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_67"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0067 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_68"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0068 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_69"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0069 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_70"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0070 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_71"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0071 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_72"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0072 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_73"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0073 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_74"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0074 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_75"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0075 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_76"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0076 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_77"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0077 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_78"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0078 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_79"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0079 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_80"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0080 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_81"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0081 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_82"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0082 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_83"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0083 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_84"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0084 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_85"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0085 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_86"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0086 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_87"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0087 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_88"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0088 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_89"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.frame0089 = function() {
 	this.initialize(ss["GAIT_Animation_atlas_90"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.frame0003 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_89"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0004 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_88"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0005 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_87"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0006 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_86"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0007 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_85"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0008 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_84"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0009 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_83"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0010 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_82"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0011 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_81"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0012 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_80"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0013 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_79"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0014 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_78"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0015 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_77"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0016 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_76"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0017 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_75"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0018 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_74"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0019 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_73"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0020 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_72"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0021 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_71"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0022 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_70"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0023 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_69"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0024 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_68"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0025 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_67"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0026 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_66"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0027 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_65"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0028 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_64"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0029 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_63"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0030 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_62"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0031 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_61"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0032 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_60"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0033 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_59"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0034 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_58"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0035 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_57"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0036 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_56"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0037 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_55"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0038 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_54"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0039 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_53"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0040 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_52"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0041 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_51"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0042 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_50"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0043 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_49"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0044 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_48"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0045 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_47"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0046 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_46"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0047 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_45"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0048 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_44"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0049 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_43"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0050 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_42"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0051 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_41"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0052 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_40"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0053 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_39"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0054 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_38"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0055 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_37"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0056 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_36"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0057 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_35"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0058 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_34"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0059 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_33"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0060 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_32"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0061 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_31"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0062 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_30"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0063 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_29"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0064 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_28"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0065 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_27"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0066 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_26"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0067 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_25"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0068 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_24"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0069 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_23"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0070 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_22"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0071 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_21"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0072 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_20"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0073 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_19"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0074 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_18"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0075 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_17"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0076 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_16"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0077 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_15"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0078 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_14"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0079 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_13"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0080 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_12"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0081 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_11"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0082 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_10"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0083 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_9"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0084 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_8"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0085 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_7"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0086 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_6"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0087 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_5"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0088 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_4"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.frame0089 = function() {
+	this.initialize(ss["GAIT_Animation_atlas_3"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.frame0090 = function() {
-	this.initialize(ss["GAIT_Animation_atlas_91"]);
+	this.initialize(ss["GAIT_Animation_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1858,7 +1858,7 @@ if (reversed == null) { reversed = false; }
 	this.text.parent = this;
 	this.text.setTransform(246.3,-39.85);
 
-	this.text_1 = new cjs.Text("During plantarflexion in loading response, the calf muscles act eccentrically. The tibialis anterior and EHL are the antagonist muscles. This swaps during dorsiflexion and the dorsiflexors act eccentrically. The ankle stabilisers are the supporting muscle group, preventing inversion and eversion of the foot.", "bold 5px 'Arial Black'", "#333333");
+	this.text_1 = new cjs.Text("During the loading response, the calf muscles act concetrically during plantarflexion and eccentrically during dorsiflexion. The tibialis anterior and EHL are the antagonist muscles. The ankle stabilisers are the supporting muscle group, preventing inversion and eversion of the foot.", "bold 5px 'Arial Black'", "#333333");
 	this.text_1.lineHeight = 9;
 	this.text_1.lineWidth = 166;
 	this.text_1.parent = this;
